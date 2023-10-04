@@ -1,10 +1,9 @@
-# Проект • Введение в нейронные сети
+# Project • Introduction to Neural Networks
 
+## Development of a multi-page application using Streamlit:
 
-## Разработка multipage-приложение с использованием streamlit:
+#### 1. Classification of a random image using Inception model (trained on the ImageNet dataset).
 
-#### 1. Классификация произвольного изображения с помощью модели Inception (обученной на датасете ImageNet).
+#### 2. Classification of images of cats and dogs using fine-tuned ResNet18 model.
 
-#### 2. Классификация изображений котов и собак дообученной моделью ResNet18.
-
-#### 3. Классификация птиц по фотографиям.
+#### 3. Classification of birds from photos.
